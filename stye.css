@@ -1,0 +1,33 @@
+body{
+    background-color:aqua;
+}
+h1{
+    font-size: 1cm;
+
+}
+h2{
+    font-size: 15mm;
+}
+h3{
+    font-size:lin;
+}
+h4{
+    font-size:50px;
+}
+h5{
+    font-size:50pt;
+}
+h6{
+    font-size: 4.5pc;
+}
+p{
+    font-size:24px;
+    line-height: 2em;
+}
+div{
+    font-size: 30px;
+    border:1px solid black;
+}
+span{
+    font-size:1ex;
+}

@@ -1,0 +1,35 @@
+span{
+    background-color: red;
+    display:inline;
+    display:block;
+    display:contents;
+    display:flex;
+    display:grid;
+    display:inline-block;
+    display:inline-flex;
+    display:inline grid;
+    display:inline-table;
+    display:list-item;
+    display:run-in;
+    display:table;
+    display:table-caption;
+
+}
+div{
+    background-color: red;
+    height:100px;
+    width: 100px;
+    color:white;
+    padding:10px;
+}
+h2{
+    position:relative;
+}
+p{
+    position: absolute;
+}
+
+
+
+
+
